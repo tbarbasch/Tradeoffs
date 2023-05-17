@@ -1,5 +1,5 @@
 # Tradeoffs
-Data for: A distinct neurogenomic response to a tradeoff between challenge and opportunity in male sticklebacks (Gasterosteus aculeatus)
+Dataset for: Barbasch, T.A., Behrens, C., McLain, M., Arredondo, E., & Bell, A.M. A distinct neurogenomic response to a tradeoff between challenge and opportunity in male sticklebacks (_Gasterosteus aculeatus_). _Biology Letters._ Submitted.
 
 # Methods
 _Laboratory populations and housing_
