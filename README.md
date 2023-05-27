@@ -25,9 +25,9 @@ _Description of Variables_
 
 date: Calendar date that data was collected
 
-ID: a unique identifier for each focal male
+ID: Unique identifier for each focal male
 
-time: time at the start of the trial
+time: Time at the start of the trial
 
 bites: Number of bites performed by the focal male during the 5 minute trial
 
@@ -37,7 +37,28 @@ Treatment: Treatment the male was given. M = Territorial challenge, F = Courtshi
 
 Trial set: Whether the trial occurred during the first or second time the set of four trials was presented
 
-Trial order: whether the stimulus was presented first, second, third, or fourth in the sequence
+Trial order: Whether the stimulus was presented first, second, third, or fourth in the sequence
 
-# Gene counts
+# Sample Info
+_Description of Variables_
+
+Sample: Unique identifier for each brain sample
+
+ExtractionDate: Calendar date when brain sample was taken
+
+Population: Identifier for the stickleback population from which data were taken
+
+Family: ID number of family that male originated from
+
+Experiment: Identifier for which experiment the samples belong
+
+Treatment: Treatment the male was given (as with Behavioral Data)
+
+bites: Number of bites performed by the focal male during the last trial before brain dissection
+
+zigzags: Number of zigzags performed by the focal male during the last trial before brain dissection
+
+
+
+
 
