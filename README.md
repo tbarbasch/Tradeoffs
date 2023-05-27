@@ -20,8 +20,7 @@ _RNA extraction and sequencing_
 
 Sixty minutes after their final trial (n=4 males after a courtship opportunity, n=5 males after a territorial intrusion, n=4 males after the tradeoff treatment, and n=4 males after the control treatment), the diencephalon and telencephalon were rapidly dissected, preserved in RNAlater, and deep frozen at -80 degrees C until extraction. RNA was extracted using Invitrogen PureLink RNA extraction kits (Invitrogen Corporation, Carlsbad, CA) and quality was checked using Agilent Bioanalyzer chips. Sequencing was performed by the Functional Genomics Unit of the W.M. Keck Center (University of Illinois Urbana Champaign). Libraries were prepped using TruSeq Stranded mRNA sample prep kits and samples were sequenced to a depth of >30M reads on a Novaseq 6000 S4 flow cell (Illumina). Reads were aligned to the stickleback reference genome (Ensembl release 95; Jones et al. 2012; Nath et al. 2021; Peichel et al. 2020) using STAR (Dobin et al. 2013) and read counts generated using HTSeq (Anders et al. 2015).
 
-# Behavioral Data
-2020Tradeoffs.csv
+# Behavioral Data: 2020Tradeoffs.csv
 
 _Description of Variables_
 
@@ -41,8 +40,7 @@ Trial set: Whether the trial occurred during the first or second time the set of
 
 Trial order: Whether the stimulus was presented first, second, third, or fourth in the sequence
 
-# Sample Info
-Aggression_sampleinfo.csv
+# Sample Info: Aggression_sampleinfo.csv
 
 _Description of Variables_
 
@@ -62,7 +60,19 @@ bites: Number of bites performed by the focal male during the last trial before 
 
 zigzags: Number of zigzags performed by the focal male during the last trial before brain dissection
 
+# htseq_results
 
+Count data from diencephalon
 
+# htseq_T_results
 
+Count data from telencephalon
+
+# eFDR_null_pvalues
+
+null distribution of p-values for eFDR correction
+
+# eFDR_contrast_pvalues
+
+eFDR corrected p-values
 
