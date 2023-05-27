@@ -40,6 +40,8 @@ Trial set: Whether the trial occurred during the first or second time the set of
 Trial order: Whether the stimulus was presented first, second, third, or fourth in the sequence
 
 # Sample Info
+Aggression_sampleinfo.csv
+
 _Description of Variables_
 
 Sample: Unique identifier for each brain sample
